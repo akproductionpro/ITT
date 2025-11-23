@@ -1,0 +1,3 @@
+export const i18n = { hi: { appName: "मेरा प्रोजेक्ट", uploadPrompt: "कृपया अपनी इमेज अपलोड करें", commandBoxLabel: "कमांड बॉक्स", commandBoxPlaceholder: "अपना कमांड यहाँ लिखें...", imagePreview: "इमेज प्रीव्यू", extractTextButton: "टेक्स्ट निकालें", analyzing: "विश्लेषण हो रहा है...", aiAnalysis: "एआई विश्लेषण", copyButton: "कॉपी करें", deleteConfirm: "क्या आप वाकई इसे हटाना चाहते हैं?" },
+
+en: { appName: "My Project", uploadPrompt: "Please upload your image", commandBoxLabel: "Command Box", commandBoxPlaceholder: "Write your command here...", imagePreview: "Image Preview", extractTextButton: "Extract Text", analyzing: "Analyzing...", aiAnalysis: "AI Analysis", copyButton: "Copy", deleteConfirm: "Are you sure you want to delete this?" } };
